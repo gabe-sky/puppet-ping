@@ -1,0 +1,27 @@
+{
+  "name": "gabe-ping",
+  "version": "1.0.0",
+  "author": "Gabe Schuyler",
+  "license": "Apache-2.0",
+  "summary": "Task to elicit a 'pong' from target systems",
+  "source": "https://github.com/gabe-sky/puppet-ping",
+  "project_page": "https://github.com/gabe-sky/puppet-ping",
+  "issues_url": "https://github.com/gabe-sky/puppet-ping/issues",
+  "tags": ["ping","pong","alive","linux","windows"],
+  "dependencies": [],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.7.0 < 7.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Linux"
+    },
+    {
+      "operatingsystem": "Windows"
+    }
+  ],
+  "pdk-version": "0.0.0"
+}

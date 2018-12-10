@@ -1,0 +1,6 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "Simply replies to any request with 'pong'",
+  "parameters": { }
+}
